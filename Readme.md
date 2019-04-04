@@ -3,7 +3,7 @@
 
 * [ExampleSessionStorage.cs](./CS/App_Code/ExampleSessionStorage.cs) (VB: [ExampleSessionStorage.vb](./VB/App_Code/ExampleSessionStorage.vb))
 * [XmlHelper.cs](./CS/App_Code/XmlHelper.cs) (VB: [XmlHelper.vb](./VB/App_Code/XmlHelper.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTreeList - XmlDataSource - How to implement CRUD, drag-and-drop and other operations
